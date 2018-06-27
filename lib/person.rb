@@ -1,3 +1,3 @@
 class Person
-  initialization 
+  def initialization 
 end 
